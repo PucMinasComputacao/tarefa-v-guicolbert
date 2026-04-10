@@ -9,18 +9,20 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Guilherme Alves Colbert Camara
+- Matricula:1645084
+- Proposta de projeto escolhida:Plataformas De cursos onlines.
+- Breve descrição sobre seu projeto:Este site é uma plataforma de cursos online chamada CursosOnline, onde os usuários podem explorar diferentes cursos, visualizar categorias como Front-end, Back-end e Design, e se inscrever para receber novidades por e-mail.
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1912" height="752" alt="image" src="https://github.com/user-attachments/assets/02295744-b982-451e-9b4c-0a53ddb5505a" />
+
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="413" height="845" alt="image" src="https://github.com/user-attachments/assets/30a745e7-d05f-4d0c-8659-cd6fdbcd3ba2" />
+
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
