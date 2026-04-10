@@ -1,12 +1,94 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <title>Plataforma de Cursos</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    
+
+<header class="header">
+  <div class="logo">CursosOnline</div>
+
+  <form class="search-form">
+    <input type="text" placeholder="Pesquisar cursos...">
+    <button type="submit">Buscar</button>
+  </form>
+</header>
+
+<nav class="nav">
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">Cursos</a></li>
+    <li><a href="#">Categorias</a></li>
+    <li><a href="#">Contato</a></li>
+  </ul>
+</nav>
+
+<main class="main">
+
+  <section class="banner">
+    <h1>Aprenda novas habilidades hoje</h1>
+    <p>Na CursosOnline você encontra cursos de tecnologia, design e muito mais.</p>
+  </section>
+
+  <section class="courses">
+    <h2>Cursos em destaque</h2>
+
+    <div class="course-list">
+
+      <article class="course">
+        <img src="https://via.placeholder.com/300x150" alt="HTML e CSS">
+        <h3>HTML e CSS</h3>
+        <p>Aprenda a criar sites do zero</p>
+      </article>
+
+      <article class="course">
+        <img src="https://via.placeholder.com/300x150" alt="JavaScript">
+        <h3>JavaScript</h3>
+        <p>De iniciante a avançado</p>
+      </article>
+
+      <article class="course">
+        <img src="https://via.placeholder.com/300x150" alt="UX Design">
+        <h3>UX Design</h3>
+        <p>Melhore a experiência do usuário</p>
+      </article>
+
+    </div>
+  </section>
+
+  <section class="categories">
+    <h2>Categorias</h2>
+
+    <div class="category-list">
+      <article class="category">Front-end</article>
+      <article class="category">Back-end</article>
+      <article class="category">Design</article>
+    </div>
+  </section>
+
+  <section class="newsletter">
+    <h2>Receba novidades</h2>
+
+    <form class="newsletter-form">
+      <input type="email" placeholder="Digite seu email">
+      <button type="submit">Inscrever</button>
+    </form>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <p>© 2026 CursosOnline - Todos os direitos reservados</p>
+  <p>
+    <a href="#">Instagram</a> |
+    <a href="#">LinkedIn</a> |
+    <a href="#">YouTube</a>
+  </p>
+</footer>
+
 </body>
 </html>
